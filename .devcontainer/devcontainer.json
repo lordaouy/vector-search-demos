@@ -20,8 +20,15 @@
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
 				"ms-python.python",
-                "charliermarsh.ruff",
-                "ms-python.black-formatter"
+				"charliermarsh.ruff",
+				"ms-python.black-formatter",
+				"GitHub.copilot",
+				"GitHub.copilot-chat",
+				"ms-toolsai.jupyter",
+				"ms-toolsai.jupyter-keymap",
+				"ms-toolsai.vscode-jupyter-slideshow",
+				"ms-toolsai.vscode-jupyter-cell-tags",
+				"ms-toolsai.jupyter-renderers"
 			]
 		}
 	},
